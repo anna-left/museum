@@ -1,5 +1,5 @@
 landing page музея Лувр  
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript  
 24.10.2021  [Таск](task.md)  
 Ключевые навыки:
 - валидная семантическая вёрстка
